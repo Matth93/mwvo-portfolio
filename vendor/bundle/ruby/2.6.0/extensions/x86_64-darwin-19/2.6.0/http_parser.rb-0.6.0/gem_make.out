@@ -1,0 +1,16 @@
+current directory: /Users/matthijsvanoostende/code/Matth93/mwvo-portfolio/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/matthijsvanoostende/.rbenv/versions/2.6.5/bin/ruby -I /Users/matthijsvanoostende/.rbenv/versions/2.6.5/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200411-61133-1smdmnw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/matthijsvanoostende/code/Matth93/mwvo-portfolio/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/matthijsvanoostende/code/Matth93/mwvo-portfolio/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/matthijsvanoostende/code/Matth93/mwvo-portfolio/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20200411-61133-utzvsw
