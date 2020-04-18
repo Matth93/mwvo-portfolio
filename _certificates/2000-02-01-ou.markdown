@@ -1,0 +1,19 @@
+---
+title: Bachelor Informatica
+subtitle: Open Universiteit (in progress)
+layout: default
+modal-id: 2
+date: 2000-02-01
+img: ou.jpg
+thumbnail: ou-thumbnail.jpg
+alt: image-alt
+project-date: June 2018 - now
+description: "<p>Slowly, but surely, I'm getting a Computer Science degree. When I have the opportunity I will start a course from the Open Universiteit. Courses I have finished so far: <br><br>  <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB0102/BTI/2019-2020' target='_blank'>Inleiding Informatica</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB0602/BTI/2019-2020' target='_blank'>Lineaire algebra en stochastiek</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB0402/BTI/2019-2020' target='_blank'>Logica, verzamelingen en relatie</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB0502/BTI/2019-2020' target='_blank'>Model-Driven Development</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB1002/BTI/2019-2020' target='_blank'>Objectgeoriënteerd analyseren en ontwerpen</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB1102/BTI/2019-2020' target='_blank'>Objectgeoriënteerd programmeren</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB0302/BTI/2019-2020' target='_blank'>Relationele databases</a><br>
+                                                                                                                                                                                                    <a href='https://mijn.ou.nl/group/ou/studieaanbod#!spdoproduct/IB1802/BTI/2019-2020' target='_blank'>Security en IT</a><br></p>"
+---

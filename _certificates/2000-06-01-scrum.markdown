@@ -1,0 +1,13 @@
+---
+title: Scrum Master 1
+subtitle: Scrum.org
+layout: default
+modal-id: 6
+date: 2000-06-01
+img: scrum.jpg
+thumbnail: scrum-thumbnail.jpg
+alt: image-alt
+project-date: January 2018
+description: Scrum Master 1.
+
+---

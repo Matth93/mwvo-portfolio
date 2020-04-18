@@ -1,0 +1,13 @@
+---
+title: Databases and SQL
+subtitle: Exin
+layout: default
+modal-id: 4
+date: 2000-04-01
+img: exin.jpg
+thumbnail: exin-thumbnail.jpg
+alt: image-alt
+project-date: January 2018
+description: Basics of Relational Databases and SQL.
+
+---

@@ -1,0 +1,13 @@
+---
+title: Mainframe Developer
+subtitle: OCICT
+layout: default
+modal-id: 3
+date: 2000-03-01
+img: OCICT.jpg
+thumbnail: OCICT-thumbnail.jpg
+alt: image-alt
+project-date: March 2018
+description: Learned the basics of programming on IBM-mainframes. The course included COBOL, TSO/ISPF, JCL, SQL, DB2 and structural programming.
+
+---

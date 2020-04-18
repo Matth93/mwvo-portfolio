@@ -1,0 +1,13 @@
+---
+title: Web Development
+subtitle: Le Wagon
+layout: default
+modal-id: 1
+date: 2000-01-01
+img: lewagon.png
+thumbnail: lewagon-thumbnail.jpg
+alt: image-alt
+project-date: March 2020
+description: Attended Le Wagon Bali (Batch 349). <br><br> 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a clone of AirBnB and a Rails prototype of a personal custom project.
+
+---
