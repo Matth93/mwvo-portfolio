@@ -3,7 +3,7 @@ title: IMDB-scraper
 layout: default
 modal-id: 3
 date: 2000-03-01
-img: IMDB-scraper.jpg
+img: imdb-scraper.jpg
 thumbnail: IMDB-thumbnail.jpg
 alt: image-alt
 github: https://github.com/Matth93/IMDB-scraper
