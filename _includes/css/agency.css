@@ -183,7 +183,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    /*color: #{{ site.data.template.color.primary }};*/
+    color: #62b4cf;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -276,7 +277,7 @@ header {
     color: #fff;
     height: 40vh;
     background-attachment: scroll;
-    background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,0.2)), url('{{ site.baseurl }}/img/almere.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,0.2)), url('{{ site.baseurl }}/img/ik2.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -313,8 +314,8 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 400px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
