@@ -3,7 +3,7 @@ title: Mainframe Developer
 subtitle: OCICT
 layout: default
 modal-id: 3
-date: 2000-03-01
+date: 2000-03-03
 img: OCICT.jpg
 thumbnail: OCICT-thumbnail.jpg
 alt: image-alt
